@@ -1,7 +1,12 @@
 shalwar suits
 midid
 jumpsuits
+<<<<<<< HEAD
 scarfs
 comisole
+=======
+skirts
+palazzos
+>>>>>>> 745f584364a19ba49fcb11c3c3f95784fd7e531d
 
 
